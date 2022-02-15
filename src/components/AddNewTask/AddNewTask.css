@@ -1,0 +1,14 @@
+.searchAndFilter{
+    width: 100%;
+    display: flex;
+    flex-grow: 2;
+    align-items: center;
+
+}
+.searchAndFilter input{
+    border-radius: 10px;
+    width: inherit;
+    font-size: 36px;
+    padding: 5px 0 5px 10px;
+    border: solid gray;
+}
